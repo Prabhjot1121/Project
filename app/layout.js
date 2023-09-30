@@ -10,7 +10,7 @@ import Contact from '@/Components/Contact'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Prabhjot Singh | PortFolio',
+  title: 'Prabhjot Singh h | PortFolio',
   description: 'Created by Prabhjot Singh',
 }
 
