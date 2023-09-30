@@ -1,4 +1,4 @@
-import './globals.css'
+import './global.css'
 import Navbar from '@/Components/Navbar'
 import Main from '@/Components/Main'
 import About from '@/Components/About'
@@ -10,7 +10,7 @@ import Contact from '@/Components/Contact'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Prabhjot Singh h | PortFolio',
+  title: 'Prabhjot Singh | PortFolio',
   description: 'Created by Prabhjot Singh',
 }
 

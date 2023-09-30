@@ -28,7 +28,7 @@ const Navbar = () => {
         <div className={shadow ? "fixed w-full h-20 shadow-xl z-[100]" : "fixed w-full h-20  z-[100]  "}>
             <div className='flex justify-between items-center w-full h-full px-2 2xl:px-16' >
                 <Link href="/">
-                    <Image src="/logo.png" width={125} height={50} />
+                    <Image src="/logo.png" width={125} height={50} alt='logo image' />
                 </Link>
                 <div>
                     <ul className='hidden md:flex'>
@@ -60,7 +60,7 @@ const Navbar = () => {
                     <div>
                         <div className='flex w-full item-center justify-between'>
                             <Link href="/">
-                                <Image src="/logo.png" width={87} height={35} />
+                                <Image src="/logo.png" width={87} height={35} alt='logo image' />
                             </Link>
                             <div onClick={handleNav} className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer '>
                                 <AiOutlineClose />
@@ -91,7 +91,7 @@ const Navbar = () => {
                             </Link>
                         </ul>
                         <div className='pt-40'>
-                            <p className=' uppercase tracking-widest text-[#5651e5] '>Let's connect together </p>
+                            <p className=' uppercase tracking-widest text-[#5651e5] '>Lets connect together </p>
                             <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                                 <div className=' rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300 '>
                                     <FaLinkedinIn />

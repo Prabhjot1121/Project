@@ -16,14 +16,14 @@ const About = () => {
             With a strong foundation in both frontend and backend technologies, I specialize in creating scalable and responsive web applications that merge functionality with aesthetics. My expertise extends to database design, API development, user authentication, and seamless user experiences
           </p>
           <p className='px-4 py-2 text-gray-600'>
-            Beyond coding, I'm an advocate for clean and maintainable code, continuous improvement, and open communication. I believe in the power of technology to transform businesses and lives, and I'm excited to contribute to the digital evolution through my work.
+            Beyond coding, I am an advocate for clean and maintainable code, continuous improvement, and open communication. I believe in the power of technology to transform businesses and lives, and I am excited to contribute to the digital evolution through my work.
           </p>
           <p className='px-4 py-2 text-gray-600'>
-            Let's connect and explore how we can embark on exciting web development projects together. Feel free to reach out via the contact information provided on this portfolio. Together, we can bring your visions to life in the digital world.
+            Lets connect and explore how we can embark on exciting web development projects together. Feel free to reach out via the contact information provided on this portfolio. Together, we can bring your visions to life in the digital world.
           </p>
         </div>
         <div className=' w-full h-auto m-auto shadow-xl rounded-xl shadow-gray-400 flex items-center justify-center p-4 hover:scale-105 ease-in duration-300 '>
-          <Image className='rounded-xl' src="/about.jpg" width={250} height={300} />
+          <Image className='rounded-xl' src="/about.jpg" width={250} height={300} alt='about image' />
         </div>
       </div>
     </div>

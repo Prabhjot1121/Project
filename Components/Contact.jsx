@@ -4,7 +4,6 @@ import Link from 'next/link';
 import { FaLinkedinIn, FaGithub, FaInstagram } from 'react-icons/fa'
 import { HiOutlineChevronDoubleUp } from 'react-icons/hi'
 
-
 const Contact = () => {
     return (
         <div id='contact' className='w-full lg:h-screen'>
