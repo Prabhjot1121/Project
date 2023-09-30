@@ -1,7 +1,7 @@
+import './globals.css'
 import Navbar from '@/Components/Navbar'
 import Main from '@/Components/Main'
 import About from '@/Components/About'
-import './globals.css'
 import { Inter } from 'next/font/google'
 import Skills from '@/Components/Skills'
 import Services from '@/Components/Services'
